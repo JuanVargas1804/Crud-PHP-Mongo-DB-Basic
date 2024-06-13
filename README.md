@@ -1,1 +1,3 @@
 # Crud-PHP-Mongo-DB-Basic
+
+Este es un CRUD Realizado con MongoDB y PHP, primero tenemos la pagina principal que nos sirve para visualizar los datos que existen dentro de la base de datos (En este caso, local), de la colección de Canciones, cuyos atributos son nombre de la canción, autor, grupo y la fecha de publicación, se pueden agregar otras opciones a traves del boton de agregar canción, se puede eliminar una canción con el boton rojo, que nos llevara a su respectiva web, y nos avisa de varias formas si queremos eliminar realmente ese registro, y el botón de actualizar nos redirige a otra pagina donde estan los campos del registro que queremos actualizar y cambiar los datos dentro de ese registro.
